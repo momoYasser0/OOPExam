@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Exam02.Questions.McqQuestions">
+    <Position X="9.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Questions\McqQuestions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam02.Questions.Question">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAgAAAAAAAECBAACAAAAAAAAAAAAAQAAAAABAA=</HashCode>
+      <FileName>Questions\Question.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam02.Questions.TrueOrFalseQuestion">
+    <Position X="12.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Questions\TrueOrFalseQuestion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam02.Subjects.Subject">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAQAAAAAAAAAAAAAAAAAQAACAAAAA=</HashCode>
+      <FileName>Subjects\Subject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam02.Exams.Exam">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAACEAAAACAAQAAAAAAAA=</HashCode>
+      <FileName>Exams\Exam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam02.Exams.FinalExam">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAQAAAAAAAA=</HashCode>
+      <FileName>Exams\FinalExam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam02.Exams.PracticalExam">
+    <Position X="2.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQABAECAAQAAAAAAAA=</HashCode>
+      <FileName>Exams\PracticalExam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam02.Answer">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAACAAAEAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Answers\Answer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
